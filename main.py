@@ -43,7 +43,5 @@ for dot_count in range(1, num_of_dots + 1):
         tim.setheading(0)
 
 
-
-
 screen = t.Screen()
 screen.exitonclick()
